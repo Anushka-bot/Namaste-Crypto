@@ -1,0 +1,14 @@
+body {
+  background: #e38a6d;
+  overflow-y: auto;
+}
+
+.line {
+  position: absolute;
+  width: 572.06px;
+  height: 0px;
+  left: 987px;
+  top: 56px;
+
+  border: 1px solid #ffffff;
+}

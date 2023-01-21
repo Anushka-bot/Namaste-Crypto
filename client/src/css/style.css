@@ -1,0 +1,335 @@
+.body {
+  overflow-y: auto;
+}
+
+.title {
+  position: absolute;
+  width: 186px;
+  height: 39px;
+  left: 95px;
+  top: 36px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.home {
+  position: absolute;
+  width: 60px;
+  height: 30px;
+  left: 300px;
+  top: 41px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.yoga {
+  position: absolute;
+  width: 52px;
+  height: 30px;
+  left: 380px;
+  top: 41px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.rewards {
+  position: absolute;
+  width: 65px;
+  height: 23px;
+  left: 475px;
+  top: 44px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.rewardsButton {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 97px;
+  height: 39px;
+  left: 458px;
+  top: 36px;
+
+  background: #ed9c82;
+  border: 0.3px solid #ffffff;
+  border-radius: 19.5px;
+}
+
+.videoHeader {
+  position: absolute;
+  width: 616px;
+  height: 43px;
+  left: 525px;
+  top: 130px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 43px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.videoBox2 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 553px;
+  height: 455px;
+  left: 814px;
+  top: 216px;
+
+  background: #e38a6d;
+  border: 1px solid #ffffff;
+}
+
+.videoBox1 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 553px;
+  height: 455px;
+  left: 196px;
+  top: 216px;
+
+  background: #e38a6d;
+  border: 1px solid #ffffff;
+}
+
+.video1 {
+  position: absolute;
+  width: 152px;
+  height: 29px;
+  left: 395px;
+  top: 684px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #ffffff;
+}
+
+.video2 {
+  position: absolute;
+  width: 139px;
+  height: 29px;
+  left: 1025px;
+  top: 684px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #ffffff;
+}
+
+.rewardsHeader {
+  position: absolute;
+  width: 478px;
+  height: 43px;
+  left: 524px;
+  top: 169px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 43px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.rewardBox {
+  box-sizing: border-box;
+  text-align: center;
+  align-items: center;
+  position: absolute;
+  font-size: 55px;
+  width: 623px;
+  height: 93px;
+  left: 461px;
+  top: 241px;
+  color: #ffffff;
+  background: #e38a6d;
+  border: 1.5px solid #ffffff;
+}
+
+.connectBox {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 251px;
+  height: 53px;
+  left: 549px;
+  top: 379px;
+
+  background: #ed9c82;
+  border: 0.5px solid #ffffff;
+}
+
+.connect {
+  position: absolute;
+  width: 225px;
+  height: 30px;
+  left: 562px;
+  top: 391px;
+  cursor: pointer;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.collectBox {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 126px;
+  height: 53px;
+  left: 837px;
+  top: 379px;
+
+  background: #ffffff;
+  border: 0.3px solid #ffffff;
+}
+
+.collect {
+  position: absolute;
+  width: 86px;
+  height: 30px;
+  left: 857px;
+  top: 391px;
+  cursor: pointer;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+
+  color: #715365;
+
+  opacity: 0.7;
+}
+
+.aboutPro {
+  position: absolute;
+  width: 201px;
+  height: 35px;
+  left: 95px;
+  top: 187px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 29px;
+  line-height: 35px;
+
+  color: #ffffff;
+}
+
+.smolline {
+  position: absolute;
+  width: 221.08px;
+  height: 0px;
+  left: 95px;
+  top: 231px;
+
+  border: 1px solid #ffffff;
+}
+
+.para {
+  position: absolute;
+  width: 470px;
+  height: 363px;
+  left: 95px;
+  top: 254px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 17.5px;
+  line-height: 25px;
+
+  color: #e7e7e7;
+}
+
+.startBut {
+  position: absolute;
+  width: 168px;
+  height: 43px;
+  left: 95px;
+  top: 580px;
+
+  background: #ffffff;
+  opacity: 0.8;
+  border: 0.5px solid #ed9c82;
+  border-radius: 17px;
+}
+
+.startTxt {
+  position: absolute;
+  width: 142px;
+  height: 30px;
+  left: 108px;
+  top: 587px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+
+  letter-spacing: -0.025em;
+
+  color: #7d7d7d;
+}
+
+.img1 {
+  position: absolute;
+  width: 990px;
+  height: 702px;
+  left: 565px;
+  top: 24px;
+  filter: drop-shadow(0px 8px 4px rgba(0, 0, 0, 0.25));
+}
