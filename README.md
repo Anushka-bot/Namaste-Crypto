@@ -3,6 +3,11 @@ Namaste Crypto is a platform that allows users to learn and practice yoga poses 
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/75663460/213910487-4a8338e7-4125-4650-b56a-b640b7b3fcc6.png)
 
+# ✨Inspiration for the Project Name
+
+As this hackathon centers around fitness, yoga plays a significant role. As an APAC developer, particularly from India, and given yoga's origin in India, we thought it fitting to infuse our project with an Indian touch. The inclusion of "Namaste" in the project name is a greeting in Hindi language, which is traditionally used to show respect to those older than oneself. In addition, in the video stream, we specifically demonstrate the practice of "Surya Namaskar," a well-known yoga practice. The inclusion of "crypto" in our project name also serves as a subtle reference to cryptocurrency.
+
+
 # 💡Inspiration
 Yoga offers numerous health benefits to people of all ages and fitness levels. It improves overall health and fitness. However, in today's fast-paced world, finding the motivation to practice yoga daily can be difficult. Learning yoga has traditionally been exhaustive, and the rewards for doing it daily are often intangible. We identified a need for a strong motivational factor to attract more people to practice yoga. Studies show that incentive programs can positively impact motivation, particularly for physical activities. We decided to incorporate the latest buzz in technology- cryptocurrency, blockchain, and machine learning- to make the process of learning yoga more engaging. Imagine learning yoga correctly with guidance and earning crypto rewards for doing it correctly and improving fitness. Achieving fitness goals is challenging and requires commitment, but our application makes it fun and easier to achieve.
 
