@@ -1,7 +1,7 @@
 # Namaste-Crypto
 Namaste Crypto is a platform that allows users to learn and practice yoga poses and earn rewards in the form of our own cryptocurrency, Elixirium (EXR), using Mediapipe posture detection and OpenCV. By accurately performing yoga postures, users are eligible for rewards which are stored on the blockchain using smart contracts. Users can visit the decentralized application (DApp) to claim their rewards by connecting their wallet. The system preserves privacy by not associating personal identity with user data and all transactions are conducted using pseudonymous blockchain addresses.
 
-## Check out our [Video Demo]([https://pages.github.com/](https://youtu.be/P6UTE-mbK8A)).
+## Check out our [Video Demo.](https://youtu.be/P6UTE-mbK8A)
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/75663460/213910487-4a8338e7-4125-4650-b56a-b640b7b3fcc6.png)
 
